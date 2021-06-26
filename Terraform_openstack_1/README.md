@@ -2,8 +2,8 @@
 Terraform code to create a virtual machine in openstack environment.
 
 ## File content
-* [main.tf](/main.tf) - contains terraform code for provisioning vm in openstack using terraform-provider-openstack
-* [terraform.tfvars](/terraform.tfvars) - contains value for variable defined in [main.tf](/main.tf)
+* [main.tf](/Terraform_openstack_1/main.tf) - contains terraform code for provisioning vm in openstack using terraform-provider-openstack
+* [terraform.tfvars](/Terraform_openstack_1/terraform.tfvars) - contains value for variable defined in [main.tf](/Terraform_openstack_1/main.tf)
 
 ### Usage 
 1. After cloning Terraform_openstack_exmaple1, edit the terraform.tfvars with values respective to 
